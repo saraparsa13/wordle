@@ -1,3 +1,6 @@
+## Demo on
+The repository got deployed on [https://saraparsa13.github.io/wordle](https://saraparsa13.github.io/wordle)
+
 ## Getting Started
 
 Static Wordle: the keyword is REACT!
